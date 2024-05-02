@@ -3,7 +3,7 @@
     "authors": ["orange", "Melnus", "Aesc", "kazu", "Rabbuttz", "zozokasu", "rhenium", "chaba_take", "hantabaru1014"],
     "messages": {
 
-        "Settings.RichPresenceSettings": "リッチプレゼンス",
+        "Settings.RichPresenceSettings": "상태 알리기(Rich Presence)",
         "General.OK": "OK",
         "General.Start": "開始",
         "General.Finish": "終了",
